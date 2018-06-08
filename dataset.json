@@ -1,0 +1,73 @@
+{"intents": [{
+
+	"tag":"hairloss",
+	"patterns":["Does stress affect hair loss? "," Does straightening your hair cause hair loss?","How can I stop my hair falling?","Can a diet change be the cause of my hair loss and dandruff problem?"],
+	"responses":[" Stress can definitely be a factor in hair loss. It’s the same with diet, overall health, hormonal balance, etc. If your friend’s hair loss is significant enough that you are concerned for her then it’s time she visited a doctor to determine the cause of the hair loss.","In a word. No. Straightening the hair is a safe process (whether it is mechanical straightening with a flat iron, or chemical straightening with one of the varied straightening processes) as long as A) the hair is healthy and in good condition to start with, and B) the processes are performed properly."," You need to speak to your doctor or dermatologist about the situation and confirm the likelihood of the hair loss being genetic, and what alternatives you have.","As to the dandruff problem, I can only suggest that you keep trying different dandruff formula shampoos (they do not all use the same ingredients) until you find one that helps to control the flakes causing you problems. You may also want to visit your physician or dermatologist and speak with him if the problem is severe. If may not be common dandruff, particularly if there is any irritation or redness on the scalp"],
+	"context_set":""
+},
+
+{
+	"tag": "headache",
+         "patterns": ["How can I stop tension headaches?", "Can you get rid a stress headache?", "What is the best medicine for migraine headache?", "What helps relieve cluster headaches?","What is the best home remedy for headache?"],
+         "responses": ["Hot or cold showers or baths may relieve a headache for some people. You may also want to rest in a quiet room with a cool cloth on your forehead. Gently massaging your head and neck muscles may provide relief. If your headaches are due to stress or anxiety, you may want to learn ways to relax.", "It can cause mild, moderate, or intense pain in your head, neck, and behind your eyes. Some people say that a tension headache feels like a tight band around their forehead. Most people who experience tension headaches have episodic headaches. These occur one or two times per month on average.", "Hot packs and heating pads can relax tense muscles. Warm showers or baths may have a similar effect. Drink a caffeinated beverage. In small amounts, caffeine alone can relieve migraine pain in the early stages or enhance the pain-reducing effects of acetaminophen (Tylenol, others) and aspirin.","Treatment. The most successful ways to treat the pain are a shot of sumatriptan (Imitrex) and breathing oxygen through a face mask for 20 minutes. Other drugs used for migraines called triptans may work. Prescription medicines based on the ergot fungus and lidocaine nasal spray might also help.","You can also apply a paste of ginger powder and 2 tablespoons water on your forehead for a few minutes to provide quicker relief. Peppermint Oil: With its refreshing scent, peppermint helps open up clogged blood vessels which cause headache. It contains menthol which helps regulate blood flow in the body."],
+         "context_set": ""
+        },
+
+
+
+        {
+	"tag": "fever",
+         "patterns": ["What is the best home remedy for fever?", "What is the best medicine for a fever?", "How do you get rid of a fever?"],
+         "responses": ["Also, herbal teas, such as peppermint or chamomile, are great and can provide much comfort. Just make sure to stay hydrated. A lukewarm bath or sponge bath may help cool a fever. However, don't use cold baths, ice or alcohol rubs", "There are several ways to bring down (reduce) a fever. In general, a fever can be reduced with ibuprofen (Advil, Motrin, Nuprin) or acetaminophen (Tylenol and others). Both medications help control pain and reduce fever.", "Rest and drink plenty of fluids. Medication isn't needed. Call the doctor if the fever is accompanied by a severe headache, stiff neck, shortness of breath, or other unusual signs or symptoms. If you're uncomfortable, take acetaminophen (Tylenol, others), ibuprofen (Advil, Motrin IB, others) or aspirin."]
+        },
+
+
+ {
+	"tag": "diarrhea",
+         "patterns": ["What can stop diarrhea fast?", "How do you stop diarrhea?", "What is the treatment for Diarrhoea?","How do you get rid of a Loose motion?"],
+         "responses": ["When dealing with a brief bout of diarrhea, you want to keep your diet bland. You may find it best to only have clear liquids for the first 24 hours. Then you can slowly add bland foods to your diet. Some bland foods include bananas, rice, applesauce, and toast — otherwise known as the BRAT diet.", "You can sip them in small amounts between meals instead of while you eat. Your doctor might recommend a sports drink to replace salt, potassium, and other electrolytes your body loses when you have diarrhea. If you also have nausea, sip the liquids slowly. Eat bland, low-fiber foods until you feel better.", "Suitable fluids to drink when you have diarrhoea include oral rehydration fluids, water, clear soups and broths and diluted juices. If you have nausea, try taking small sips of fluid often. Dehydration may be treated with oral fluids or, if severe, with intravenous fluids (i.e. into a vein, via a drip)","Make sure that you eat two fruits a day to reduce loose motions. You can also blend the pomegranate seeds in a mixer and extract its juice. Drink a glass of this juice at least three times a day to see effective results. You can also drink the water that is brought to boiling point with pomegranate leaves soaked in it."]
+        },
+
+{
+	"tag": "tooth",
+         "patterns": ["What is best painkiller for toothache?", "how kills tooth pain?", "How do you stop a toothache at home?" ],
+         "responses": ["“Anti-inflammatory analgesics such as Ibuprofen are the best for toothache as the pain is usually caused by swelling. If you can't take them – if you are allergic to aspirin, for example - then paracetamol is the next best thing.","Toothache remedy: Swish some salt water. A teaspoon of salt dissolved in a cup of boiling water makes a pain-killing mouthwash (bonus: this can relieve a sore throat as well), which will clean away irritating debris and help reduce swelling. (Here are some other helpful ways you can use mouthwash.)","Tooth Nerve Pain aka Pulpitis. If your tooth pain is severe and gets much worse at night then there is a chance you are suffering from pulpitis. ... This compresses the nerves and blood vessels which causes severe and sharp throbbing pain through the tooth. Pulpitis needs to be treated by a dentist as soon as possible."],
+         "context_set": ""
+        },
+
+
+
+        {
+	"tag": "stomach",
+         "patterns": ["What can I do to relieve stomach pain?","Which medicine is best for stomach pain?","What is the best medicine for upset stomach?"],
+         "responses": ["Heating pad. You might find a heating pad or hot water bottle soothing when you're feeling sick, so cuddle up to your electric blanket and take it easy until your symptoms pass. The warmth on your stomach will distract you from any cramping or pain, and the heat can help to relax your muscles and reduce your nausea.", "For other types of pain, acetaminophen (Aspirin Free Anacin, Liquiprin, Panadol, Tylenol) might be helpful. But stay away from non-steroidal anti-inflammatories (NSAIDs) like aspirin, ibuprofen (Advil, Midol, Motrin), or naproxen (Naprosyn, Aleve, Anaprox, Naprelan). They can irritate your stomach.","There are two main types of OTC medications used to treat nausea and vomiting: Bismuth Subsalicylate, the active ingredient in OTC medications like Kaopectate and Pepto-Bismol, protects your stomach lining. Bismuth subsalicylate is also used to treat ulcers, upset stomach and diarrhea."],
+         "context_filter": ""
+        },
+{
+	"tag": "cold",
+         "patterns": ["What is the home remedy of cold?", "What can you take to stop a runny nose?", "How do you stop a cold?" ],
+         "responses": ["A common home remedy is to gargle with warm saltwater or honey and lemon juice. This old-school remedy can ease a sore throat, which is often one of the first symptoms of a cold. People can choose from a variety of saltwater gargle recipes, including gargling with 1 teaspoon of salt mixed in a cup of warm water.","Inhaling warm (not hot) steam can help soothe the mucous membranes lining the nose. ... In other words, you'll get rid of your runny nose faster. Try a saline nasal spray or drops. Using a gentle saline nasal spray, or drops three to four times a day can help stop a runny nose and make it easier to breathe.","Mind your flu manners. On the first day you have symptoms, call your work or school and tell them you won’t be coming in for a few days. You're sick -- and very contagious! Take advantage of down time and give your body some much-needed rest. Curl up on the couch and spend some time reading, watching DVDs, or just cat-napping while your body battles the virus."],
+         "context_set": ""
+        },
+{
+"tag": "pressure",
+         "patterns": ["how to balance lower blood pressure?", "Can drinking lots of water lower blood pressure?", "Can you be cured of high blood pressure?" ],
+         "responses": ["Lemon juice has commonly been used by hypertensive patients in order to lower blood pressure (BP) acutely when BP is raised or as an alternative complementary therapy for expectation of chronic improvement. In the acute study group, neither lemon juice nor water affected systolic and diastolic BPs.","In fact, staying adequately hydrated is one of the simplest ways to lower your blood pressure naturally. ... Water intake affects blood pressure in two ways. First, when you don't drink enough water your body attempts to secure its fluid supply by retaining sodium. Sodium is your body's water-insurance mechanism.","Removal of these tumors through minimally-invasive surgery may cure the high blood pressure, especially if done early after the diagnosis of hypertension is made. ... If you have one, your high blood pressure may be cured with surgery, eliminating the need for lifelong treatment with blood pressure lowering medications."],
+         "context_set": ""
+        },
+
+{
+	"tag": "diet",
+         "patterns": ["What is their diet?", "What is a healthy diet plan?", "How can I lose weight fast without exercise?", "Hello"],
+         "responses": ["In nutrition, diet is the sum of food consumed by a person or other organism. The word diet often implies the use of specific intake of nutrition for health or weight-management reasons (with the two often being related).", "A healthy eating plan: Emphasizes vegetables, fruits, whole grains, and fat-free or low-fat dairy products. Includes lean meats, poultry, fish, beans, eggs, and nuts. Limits saturated and trans fats, sodium, and added sugars. Controls portion sizes.", "Protein has powerful effects on appetite. It can increase the feeling of fullness, reduce hunger and help you eat fewer calories"],
+         "context_set": ""
+        },
+{
+	"tag": "strees",
+         "patterns": ["How do relieve stress?", "What is stress and how to control it?"],
+         "responses": ["Meditate. A few minutes of practice per day can help ease anxiety. ", "Avoid Caffeine, Alcohol, and Nicotine"]
+        }
+]
+}
+
+
